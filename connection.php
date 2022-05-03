@@ -1,3 +1,3 @@
 <?php 
-echo "connection";
+echo "connection.php";
 ?>
